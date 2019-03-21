@@ -28,16 +28,6 @@ Please take a look at our [wiki](https://threefoldfoundation.github.io/info_toke
 ## ThreeFold Technology
 ThreeFold technology enables a decentralized, blockchain powered edge cloud which is 100% democratized. It's based on open source software that creates neutral, energy efficient and private capacity that's 100% autonomously managed and self-healing. The three technology components are ZERO-OS a simple and efficient operating system, ZERO-ROBOT which autonomously manages the Zero-OS Grid to deliver a self-healing endlessly scalable internet infrastructure. ZERO-CHAIN a blockchain technology that can be used to create any responsible digital medium of exchange which is green, faster, cost-effective and scalable. We use it to create a responsible internet for all. 
 
-For additional information, please refer to our official channels:
-
-Wiki: [Mazraa Wiki](https://threefoldfoundation.github.io/info_mazraa/)
-
-Website: [Mazraa.io](https://www.mazraa.io/)
-
-Datacenter Status Dashboard: [status.mazraa.io](http://status.mazraa.io) (Coming Soon!)
-
-Contact: [Mail](connect@mazraa.io)
-
 ## ThreeFold Info
 
 ThreeFold Whitepaper, articles, known issues: [docs.grid.tf/threefold/info](https://docs.grid.tf/threefold/info)
@@ -65,7 +55,9 @@ Staging: [http://www2.mazraa.io](http://www2.mazraa.io)
 
 ### Wiki:
 
-[wiki.mazraa.io](http://wiki.mazraa.io/)
+Temporary on TF Foundation wiki: [Mazraa Wiki](https://threefoldfoundation.github.io/info_mazraa/)
+
+Will be on: [wiki.mazraa.io](http://wiki.mazraa.io/)
 
 staging: [wiki2.mazraa.io](http://wiki2.mazraa.io)
 
@@ -77,6 +69,9 @@ https://docs.grid.tf/Mazraa/
 
 ### Google Drive
 https://drive.google.com/drive/u/1/folders/0B2lpDFIlL9ZgSUtfOXg2ZkJjbjA
+
+### Datacenter Status Dashboard: 
+[status.mazraa.io](http://status.mazraa.io) (Coming Soon!)
 
 ## Repos
 
