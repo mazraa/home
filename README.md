@@ -21,8 +21,6 @@ In order to reserve capacity TFT (IT Capacity Units) are required.
 Anyone can purchase them 
 1. Directly from mazraa.io by sending us an email request: info@mazraa.com
 
-
-
 Please take a look at our [wiki](https://threefoldfoundation.github.io/info_tokens/#/how_to_buy/buy_from_exchange)
 
 ## ThreeFold Technology
