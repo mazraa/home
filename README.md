@@ -1,6 +1,6 @@
 # Mazraa
 
-[![](https://bullsoncryptostreet.com/wp-content/uploads/2018/07/blockchain-technology_fullwidth.jpg)](https://www.mazraa.io/)
+[![](MAZRAA_P2PCLOUD.jpeg)](https://www.mazraa.io/)
 
 # Mazraa Cooperative is a founding digital capacity farmer on the ThreeFold Peer2Peer Cloud.
 
