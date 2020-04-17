@@ -62,9 +62,6 @@ https://freeflowpages.com/s/mazraa
 ### Gitea
 https://docs.grid.tf/Mazraa/
 
-### Google Drive
-https://drive.google.com/drive/u/1/folders/0B2lpDFIlL9ZgSUtfOXg2ZkJjbjA
-
 ### Datacenter Status Dashboard: 
 [status.mazraa.io](http://status.mazraa.io) (Coming Soon!)
 
@@ -72,9 +69,6 @@ https://drive.google.com/drive/u/1/folders/0B2lpDFIlL9ZgSUtfOXg2ZkJjbjA
 
 ### [Home](https://github.com/mazraa/home)
 Home of the organization
-
-### [www_atwg_tech](https://github.com/mazraa/www_mazraa_io)
-Landing page website: [www.mazraa.io](https://www.mazraa.io) 
 
 ### [info](https://github.com/mazraa/info)
 Organization wiki. Hosted as [wiki.mazraa.io](http://wiki.mazraa.io/)
