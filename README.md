@@ -2,11 +2,11 @@
 
 [![](https://bullsoncryptostreet.com/wp-content/uploads/2018/07/blockchain-technology_fullwidth.jpg)](https://www.mazraa.io/)
 
-# Mazraa Cooperative is a founding digital capacity farmer on the ThreeFold Grid.
+# Mazraa Cooperative paving the way for P2P Cloud Capacity in the Middle East
 
 ## Mission
 
-To support the expansion of the ThreeFold Grid; a responsible internet backed by neutral, energy efficient and decentralised internet capacity that empowers humanity with a responsible internet platform that is affordable and accessable to all.
+To support the expansion of a global P2P Cloud powered by the ThreeFold Network in order to empower humanity with an internet platform that is accessible, data sovereign, and energy conscious.
 
 ## About 
 Mazraa is a founding farm and cooperative on the ThreeFold Grid. 
