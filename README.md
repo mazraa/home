@@ -37,7 +37,6 @@ ThreeFold website: [https://threefold.io/](https://threefold.io/)
 ## Team
 
 * [Adnan Fatayerji](https://www.linkedin.com/in/adnansf/) - CEO
-* [Georges Georgiou](https://www.linkedin.com/in/georges-georgiou/) - CFO
 * [Olivia Jurado](https://www.linkedin.com/in/oliviajurado/)
 * [Gloria Anne Claracay Cabaron](https://www.linkedin.com/in/gloria-anne-c-9b327b38/)
 * [Jenevie de Mesa](https://www.linkedin.com/in/jenevie-de-mesa-757a13102/)
