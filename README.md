@@ -2,7 +2,7 @@
 
 [![](https://bullsoncryptostreet.com/wp-content/uploads/2018/07/blockchain-technology_fullwidth.jpg)](https://www.mazraa.io/)
 
-# Mazraa Cooperative paving the way for P2P Cloud Capacity in the Middle East
+# Mazraa - P2P Cloud Capacity in the Middle East
 
 ## Mission
 
