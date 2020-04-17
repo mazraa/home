@@ -9,7 +9,7 @@
 To support the expansion of a global P2P Cloud powered by the ThreeFold Network in order to empower humanity with an internet platform that is accessible, data sovereign, and energy conscious.
 
 ## About 
-Mazraa is a founding farm and cooperative on the ThreeFold Grid. 
+Mazraa is a founding farm and cooperative on the ThreeFold Network. 
 Mazraa supports ThreeFold Foundation's mission to create a Responsible Internet for All, one that is accessible, affordable and energy efficient. We are the first founding farmer on the network and also contribute to ThreeFold's global adoption by hosting development capacity for ThreeFold Tech developers, supporting the promotion and growth of the global community through contributed marketing resources and funding. We believe it's time for the internet to have a major upgrade for the people and our planet.
 
 ## Data Capacity
@@ -64,8 +64,6 @@ https://freeflowpages.com/s/mazraa
 ### Gitea
 https://docs.grid.tf/Mazraa/
 
-### Google Drive
-https://drive.google.com/drive/u/1/folders/0B2lpDFIlL9ZgSUtfOXg2ZkJjbjA
 
 ### Datacenter Status Dashboard: 
 [status.mazraa.io](http://status.mazraa.io) (Coming Soon!)
@@ -74,9 +72,6 @@ https://drive.google.com/drive/u/1/folders/0B2lpDFIlL9ZgSUtfOXg2ZkJjbjA
 
 ### [Home](https://github.com/mazraa/home)
 Home of the organization
-
-### [www_atwg_tech](https://github.com/mazraa/www_mazraa_io)
-Landing page website: [www.mazraa.io](https://www.mazraa.io) 
 
 ### [info](https://github.com/mazraa/info)
 Organization wiki. Hosted as [wiki.mazraa.io](http://wiki.mazraa.io/)
